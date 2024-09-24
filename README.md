@@ -1,7 +1,7 @@
 # Lo-Fi-Sim
 Graphical interface allowing the user to simulate low and middle field cranial MRI and generate 3D images with high and low SNR. The possible MRI sequences that can be simulated are: spin-echo, gradient-echo, inversion recovery (IR), double IR, FLAIR, diffusion, SSFP, turbo-spin-echo (TSE) with three different kspace trajectories (linear, out-in, and in-out).
 
-![Fig 2](https://github.com/user-attachments/assets/ea7e8ab9-5806-4216-8841-0cc9ec613866)
+![Fig 2](paper/Figures/Fig 3.JPG)
 
 Instructions for running the graphical user interface (GUI)
 
