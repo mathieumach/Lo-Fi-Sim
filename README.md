@@ -3,7 +3,6 @@ Graphical interface allowing the user to simulate low and middle field cranial M
 
 ![Fig3](https://github.com/user-attachments/assets/dae549cc-143c-4ec0-b6d8-2681906db8a3)
 
-
 Instructions for running the graphical user interface (GUI)
 
 Step 1)
@@ -36,3 +35,5 @@ When the GUI opens, you can decide to use either the simulator of the generator.
 The generator lets the user create either one or multiple simulated data sets. Every generated data comes with a high SNR image, without any noise, and one lower SNR image, the noise level can be defined by the user. As of now, the simulated data can be saved as numpy array or nifti files.
 
 ![Generator](https://github.com/user-attachments/assets/9d669c54-f6bd-4c8d-befd-0ba02a63ed23)
+
+![test](Simulator.jpg)
