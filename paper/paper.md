@@ -1,7 +1,7 @@
 --- 
 title : ‘Point-of-care MRI devices simulator and generator’
 tags:
-	- Python
+- Python
 	- MRI
 	- Low-field MRI
 	- Education
