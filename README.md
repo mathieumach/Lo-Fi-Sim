@@ -30,10 +30,10 @@ The GUI can also be used without running the code via an application. This is an
 
 When the GUI opens, you can decide to use either the simulator of the generator. The simulator enables the user to interact with simulated data and different MRI parameters, apply some basic image processing tools, import and see the effect of B0, T1, and T2 relaxation maps.
 
-![Simulator](https://github.com/user-attachments/assets/cd8b902b-ac5a-4e6a-9b9d-8b6b19f85c8b)
+![test](Simulator.jpg)
 
 The generator lets the user create either one or multiple simulated data sets. Every generated data comes with a high SNR image, without any noise, and one lower SNR image, the noise level can be defined by the user. As of now, the simulated data can be saved as numpy array or nifti files.
 
-![Generator](https://github.com/user-attachments/assets/9d669c54-f6bd-4c8d-befd-0ba02a63ed23)
+![Generator](Generator.jpg)
 
-![test](Simulator.jpg)
+
