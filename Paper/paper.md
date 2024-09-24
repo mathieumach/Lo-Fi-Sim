@@ -19,7 +19,7 @@ authors:
 affiliations:
 	- name: C.J Gorter MRI Center, Department of Radiology, Leiden University Medical Center, Netherlands
 	index: 1
-date: 23 September 2024
+date: 24 September 2024
 bibliography: POC lumc.bib
 ---
 
