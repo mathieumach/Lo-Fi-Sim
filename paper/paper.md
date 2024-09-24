@@ -1,25 +1,24 @@
---- 
-title : ‘Point-of-care MRI devices simulator and generator’
+---
+title: 'Point-of-care MRI devices simulator and generator'
 tags:
- - Python
- - MRI
- - Low-field MRI
- - Education
- - Simulation
+  - Python
+  - MRI
+  - Low-field MRI
+  - Education
+  - Simulation
 authors:
- - name: Mathieu Mach
- orcid: 0000-0002-1337-7187
- equal-contrib: true
- corresponding: true
- affiliation: 1
- - name: Andrew Webb
- orcid: 0000-0003-4045-9732
- equal-contrib: true
- affiliation: 1
+  - name: Mathieu Mach
+    orcid: 0000-0002-1337-7187
+    equal-contrib: true
+    corresponding: true
+    affiliation: 1
+  - name: Andrew Webb
+    orcid: 0000-0003-4045-9732
+    equal-contrib: true
 affiliations:
-- name: C.J Gorter MRI Center, Department of Radiology, Leiden University Medical Center, Netherlands
- index: 1
-date: 23 September 2024
+ - name: C.J Gorter MRI Center, Department of Radiology, Leiden University Medical Center, Netherlands
+   index: 1
+date: 24 September 2024
 bibliography: POC lumc.bib
 ---
 
