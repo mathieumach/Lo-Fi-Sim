@@ -52,7 +52,7 @@ The simulation code is written in Python 3.7, can be run on a standard laptop co
 Figure 1 shows a diagram of the inputs to the simulator programme. Morphometric data was derived from the ITis Duke model at 1 x 1 x 1 mm resolution. Since most POC studies are neurological, the tissue model was truncated at the level of the neck. Tissues were assigned to be white matter, gray matter, lipid, or cerebrospinal fluid with corresponding relaxation times from in vivo measurements at 46 mT and proton densities from the literature. Additional inputs to the simulation package are a 3-dimensional B<sub>1</sub><sup>+</sup> map, a 3-dimensional B<sub>0</sub> map, and a 3-axis map of the magnetic field produced by the gradient coil: these can be measured or simulated, or any desired 3D map used as the input. The data formats are outlined in the Readme file in the github repository.
 
 
-![Figure 1. Schematic of the required inputs to the simulator to generate image datasets.](Fig1.jpg)
+![Figure 1. Schematic of the required inputs to the simulator to generate image datasets.](Fig1.JPG)
 
 Figure 2 shows the graphical interface with the choice of pulse sequences on the left, data acquisition parameters in the centre, and post-processing options on the right. The simulated images are shown in three orthogonal views, with interactive scrolling through all views via the mouse or keyboard entry. A sequence history is also displayed so that the user can easily return to a set of previously-used data acquisition parameters.
 
@@ -64,13 +64,13 @@ Image simulation
 
 Figure 3 shows image outputs from a number of different sequences, including artifacts associated with different data acquisition schemes, for example the banding artifacts in the balanced steady state free precession (SSFP) sequence due to the relatively strong B0 inhomogeneity and long TR time of 16 ms. By inputting different B0 maps, the user can see the effect of these on the final image.
 
-![Figure 3. Examples of images produced from different acquisition sequences and k-space trajectories. TSE (turbo spin echo), IR (inversion recovery), SSFP (steady state free precession).](Fig3.jpg)
+![Figure 3. Examples of images produced from different acquisition sequences and k-space trajectories. TSE (turbo spin echo), IR (inversion recovery), SSFP (steady state free precession).](Fig3.JPG)
 
 Graphical interface architecture
 
 Figure 4 shows the structure of Lo-Fi-Sim and the global workflow for creating images and datasets. Simulated data can be saved as 2D PNG images in the simulator and as either 3D numpy arrays or 3D NIFTI files in the generator. The simulator offers a live and 3D interaction with MRI parameters and some basic image post-processing filters, enabling the user to see the effects of those on the images. The generator always saves high and low SNR data, creating pairs of images.
 
-![Figure 4. Global architecture and operations of the simulator and generator.](Fig4.jpg)
+![Figure 4. Global architecture and operations of the simulator and generator.](Fig4.JPG)
 
 # Conclusion
 
