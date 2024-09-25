@@ -33,7 +33,7 @@ C.J Gorter MRI Center, Department of Radiology, Leiden University Medical Center
 
 Recent studies have highlighted the lack of accessible and sustainable medical imaging infrastructure in large portions of the world [@ogbole_survey_2018, @geethanath_accessible_2019, @uc_framework_2022]. Mobile point-of-care (POC) low-field MRI is finding increasing application in lower and middle-income countries. Since resources are limited, simulation packages enable more widespread dissemination of the experience of operating such systems. To this end, a Python-based package specific to POC systems has been developed.
 
-**Statement of need**
+# Statement of need
 
 MRI simulator packages, such as [4–8][@noauthor_corsmed_nodate, @noauthor_iaci_2018, @noauthor_scanlabmr_nodate, @tong_virtual_2019, @kose_blochsolver_2017], are accessible online and can simulate typical operating conditions and hardware for clinical 1.5 and 3 Tesla MRI systems. However, the situation is quite different for POC systems operating between 50 and 200 mT, in which there is very strong B0 inhomogeneity (typically hundreds of times higher than for a whole-body clinical system), low signal-to-noise ratio (SNR), and limited gradient strength and spatial resolution. In addition, tissue T1 relaxation times are much shorter, whereas T2 values are quite similar.
 
