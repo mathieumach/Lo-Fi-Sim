@@ -16,6 +16,7 @@ authors:
     orcid: 0000-0003-4045-9732
     equal-contrib: true
     affiliation: 1
+affiliations:
  - name: C.J Gorter MRI Center, Department of Radiology, Leiden University Medical Center, Netherlands
    index: 1
 date: 24 September 2024
