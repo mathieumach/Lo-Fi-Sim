@@ -83,37 +83,3 @@ Code and .exe application are available at [https://github.com/mathieumach/Lowfi
 # Acknowledgements
 
 This project has received funding from Horizon 2020 ERC Advanced PASMAR 101021218.
-
-# References
-
-1\. Ogbole, G. I., Adeyomoye, A. O., Badu-Peprah, A., Mensah, Y. & Nzeh,
-
-D. A. (2018), Survey of magnetic resonance imaging availability in West Africa. The
-
-Pan African Medical Journal, 30, 240. doi:[10.11604/pamj.2018.30.240.14000](https://doi.org/10.11604%2Fpamj.2018.30.240.14000)
-
-2\. Geethanath, S. & Vaughan Jr., J. T. (2019) Accessible magnetic resonance imaging:
-
-A review. Journal of Magnetic Resonance Imaging, e65-e77. doi:10.1002/jmri.26638
-
-3\. Uc, A. et al. (2023) A framework for advancing sustainable magnetic resonance
-
-imaging access in Africa. NMR in Biomedicine 36, e4846–e4846. doi:10.1002/nbm.4846
-
-4\. Corsmed - MRI Simulator Corsmed. <https://www.corsmed.com/mrisimulator/>
-
-(2023).
-
-5\. ScanLabMR – MRI Training, Education, and Simulator Software. Scan-
-
-LabMR. <https://scanlabmr.com/> (2023).
-
-6\. IACI MRI Simulation Software — Psychology Software Tools Psychology
-
-Software Tools—Solutions for Research, Assessment, and Education. https:
-
-//pstnet.com/products/iaci-mri-simulation-software/ (2023).
-
-7\. Tong, G., Geethanath, S., Jimeno M.M., Quian, E., Ravi K.S., Girish, N., and Vaughan, J.T. (2019). Virtual scnner: MRI on a browser. _JOSS_, 4 (43), 1637. doi:10.21105/joss.01637
-
-8\. Kose R., and Kose, K. (2017). BlochSolverL a GPU-optimized fast 3D MRI simulator for experimentally compatible pulse sequences. Journal of Magnetic Resonance, 281, 51-65. doi: 10.1016/j.jmr.2017.05.007.
