@@ -28,7 +28,7 @@ and pressing enter. The GUI will appear shortly after.
 
 The GUI can also be used without running the code via an application. This is an executable (.exe) file that can be used on Windows systems. As of now there is now application for Mac operators but softwares such as WineBottler (https://winebottler.kronenberg.org/) can be used to run Windows programs on Mac. The zip executable can be downloaded from this link: https://drive.google.com/file/d/1RgzTVxia0h1waa7WgR1aHdP7JC0Mg9G-/view?usp=drive_link
 
-When the GUI opens, you can decide to use either the simulator of the generator. The simulator enables the user to interact with simulated data and different MRI parameters, apply some basic image processing tools, import and see the effect of B0, T1, and T2 relaxation maps.
+When the GUI opens, you can decide to use either the simulator or the generator. Once open, both have a small tutorial explaining the different features that can be used. The simulator enables the user to interact with simulated data and different MRI parameters, apply some basic image processing tools, import and see the effect of B0, T1, and T2 relaxation maps.
 
 ![test](Simulator.jpg)
 
