@@ -39,11 +39,9 @@ The simulator can be open with all the predefined 3D data maps, but the B0 magne
 
 ![B0_maps](B0_maps.jpg)
 
-Below are Gradient Echo images using the predefine B0 map, the ``Test_Sin_b0.npy``, the ``Test_Sinc2_b0.npy`` and using the predefined MRI parameters of the simulator (TR = 500ms, TE = 20ms, Alpha = 45°).
+Below are Gradient Echo images using the predefine B0 map, the ``Test_Sin_b0.npy``, the ``Test_Sinc2_b0.npy``, respectively, and using the predefined MRI parameters of the simulator (TR = 500ms, TE = 20ms, Alpha = 45°).
 
-<img src="Original_GE.jpg" width="200" height="200"/>
-<img src="Sin_B0_GE.jpg" width="200" height="200"/>
-<img src="Sinc2_B0_GE.jpg" width="200" height="200"/>
+<img src="Original_GE.jpg" width="200" height="200"/> <img src="Sin_B0_GE.jpg" width="200" height="200"/> <img src="Sinc2_B0_GE.jpg" width="200" height="200"/>
 
 The generator lets the user create either one or multiple simulated data sets. Every generated data comes with a high SNR image, without any noise, and one lower SNR image, the noise level can be defined by the user. As of now, the simulated data can be saved as numpy array or nifti files.
 
