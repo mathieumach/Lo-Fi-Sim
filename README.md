@@ -39,7 +39,7 @@ The simulator can be open with all the predefined 3D data maps, but the B0 magne
 
 ![B0_maps](B0_maps.jpg)
 
-Below are Gradient Echo images using the predefine B0 map, the ``Test_Sin_b0.npy``, the ``Test_Sinc2_b0.npy``, respectively, and using the predefined MRI parameters of the simulator (TR = 500ms, TE = 20ms, Alpha = 45°).
+Below are Gradient Echo images using the predefine B0 map (whitout importing anything), the ``Test_Sin_b0.npy``, and the ``Test_Sinc2_b0.npy`` respectively. These images illustrate the implication of different B0 magnectic field, and what the user can expect using the data in the ``tests`` folder with the predefined MRI parameters of the simulator (TR = 500ms, TE = 20ms, Alpha = 45°).
 
 <img src="Original_GE.jpg" width="200" height="200"/> <img src="Sin_B0_GE.jpg" width="200" height="200"/> <img src="Sinc2_B0_GE.jpg" width="200" height="200"/>
 
