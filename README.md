@@ -41,7 +41,7 @@ The simulator can be open with all the predefined 3D data maps, but the B0 magne
 
 Below are Gradient Echo images using the predefine B0 map, the ``Test_Sin_b0.npy``, the ``Test_Sinc2_b0.npy`` and using the predefined MRI parameters of the simulator (TR = 500ms, TE = 20ms, Alpha = 45°).
 
-![GE_ori](Original_GE.jpg)
+![GE_ori](Original_GE.jpg =100x20)
 ![GE_sin](Sin_B0_GE.jpg)
 ![GE_sinc](Sinc2_B0_GE.jpg)
 
