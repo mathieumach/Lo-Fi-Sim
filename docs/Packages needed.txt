@@ -1,0 +1,11 @@
+numpy
+scipy
+os
+matplotlib
+cv2
+sys
+webbrowser
+nibabel
+PIL
+tkinter
+skimage
