@@ -6,21 +6,24 @@ Graphical interface allowing the user to simulate low and middle field cranial M
 Instructions for running the graphical user interface (GUI)
 
 Step 1)
+Download the ``src`` folder
+
+Step 2)
 Download the data zip file using this link: https://drive.google.com/file/d/1qUnMOWU84inbLAImg7PC623DG1QkRpJD/view?usp=sharing
 
-Step 2) 
+Step 3) 
 Unzip the data file and place it at the same level as the Images and Tutorial images files
 
-Step 3)
+Step 4)
 Open a terminal window from where you can run Python. 
 This can be from any Python environment (Anaconda, Spyder, PyCharm, etc.).
 Example: type "Anaconda prompt" in the search bar, if you want the anaconda terminal window.
 
-Step 4)
+Step 5)
 Navigate to the path/folder where the GUI package is saved on your computer.
 This is done via the ``cd x`` command that will change your current directory to x.
 
-Step 5)
+Step 6)
 Run the Gui.py file.
 This can be done by typing the following command:
 ``python GUI_MRI.py``
