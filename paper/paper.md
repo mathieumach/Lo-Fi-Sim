@@ -78,7 +78,7 @@ This work represents an initial implementation of a simple simulation package es
 
 # Code availability
 
-Code and .exe application are available at [https://github.com/mathieumach/Lowfield-simulator-and-generator/tree/main].
+Code and .exe application are available at https://github.com/mathieumach/Lo-Fi-Sim/tree/main.
 
 # Acknowledgements
 
