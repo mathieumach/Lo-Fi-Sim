@@ -3184,7 +3184,7 @@ def open_simu():
         
     elif (B0_check == False) and (T2_check == True):
 
-        D = np.load('Data\DELTA_B0_3D.npy')
+        D = np.load(os.path.join(script_dir, 'Data\DELTA_B0_3D.npy'))
         T2_ori = np.load(os.path.join(script_dir, 'Data\T2_3D_cer_lip_grad.npy')) # unit of T2 map is in [s]
         t2_inverse = np.divide(1, T2_import, out=np.zeros_like(T2_import), where=T2_import!=0) # 1/t2
         gamma =  42.58*(10**6)   # gyromagnetic ratio for hydrogen 42.58 [MHz/T]
