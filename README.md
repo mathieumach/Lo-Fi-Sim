@@ -9,7 +9,7 @@ Step 1)
 Download the ``src`` folder
 
 Step 2)
-Download the data zip file using this link: https://drive.google.com/file/d/1qUnMOWU84inbLAImg7PC623DG1QkRpJD/view?usp=sharing
+Download the data zip file using this link: https://drive.google.com/file/d/12Ev-8DTFbusW6fM3n-LRymztR3GMxEZA/view?usp=drive_link
 
 Step 3) 
 Unzip the data file and place it at the same level as the Images and Tutorial images files
